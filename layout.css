@@ -1,0 +1,10 @@
+body{
+	background-color:#86B0BA;
+}
+
+h1 , p {
+	font-family:"Arial", "Helvatica", "Sans-serif";
+	text-indent: 12px;
+	color:black;
+	
+}
